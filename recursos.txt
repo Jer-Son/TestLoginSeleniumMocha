@@ -1,0 +1,10 @@
+--iniciar proyecto 
+npm init -y
+
+--Instalar mocha
+npm install mocha
+--Instalar selenium-webdriver
+npm install selenium-webdriver
+--Instalar webdriver-manager
+npm install webdriver-manager
+npm i selenium-webdriver mocha webdriver-manager
